@@ -38,6 +38,13 @@ header {
     border-radius: 50%;
 }
 
+.panna {
+ display: flex;
+ justify-content: center;
+ justify-content: space-between;
+ align-items: center;
+}
+
 nav {
     display: flex;
 }
@@ -228,6 +235,14 @@ margin: 3%;
 
 .work-gallery img:hover {
     transform: scale(1.1);
+}
+
+.jota img:hover {
+    transform: scale(2.0);
+}
+
+.jopanna img:hover {
+    transform: scale(2.0);
 }
 
 footer {
