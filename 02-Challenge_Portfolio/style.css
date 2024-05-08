@@ -148,7 +148,7 @@ margin: 3%;
   .contact-form button {
     width: 100%;
     border: none;
-    background: #811805;
+    background: #04dee6;
     color: #335e75;
     text-align: center;
     padding: 15px 0;
@@ -234,7 +234,7 @@ margin: 3%;
 }
 
 .work-gallery img:hover {
-    transform: scale(1.1);
+    transform: scale(2.1);
 }
 
 .jota img:hover {
